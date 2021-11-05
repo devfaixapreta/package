@@ -2,8 +2,9 @@
 Exemplo como pacote
 
 # Install package em um projeto
-## composer.json
-* Crie um o arquivo `composer.json` Acrescente o endereço do repositório e a versão ou a branch
+## Utilizando um arquivo composer.json
+* Crie um o arquivo `composer.json` na raiz do seu projeto.
+* Edite o arquivo acrescentando o endereço do repositório e a versão ou a branch
 ```
   "repositories": [
         {
@@ -15,4 +16,8 @@ Exemplo como pacote
     "require": {
         "devfaixapreta/package": "*"
     }
+```
+* Instalar como dependência no projeto
+```
+composer install
 ```
