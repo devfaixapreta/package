@@ -80,3 +80,7 @@ Você pode instalar o pacote diretamente em um projeto adicionando a dependecia 
 ```
 npm i devfaixapreta-package
 ```
+ou
+```
+npm i devfaixapreta-package@<version>
+```
