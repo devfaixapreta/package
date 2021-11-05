@@ -1,0 +1,19 @@
+{
+  "name": "devfaixapreta-package",
+  "version": "0.2.0",
+  "description": "Exemplo como pacote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devfaixapreta/package.git"
+  },
+  "author": "devfaixapreta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devfaixapreta/package/issues"
+  },
+  "homepage": "https://github.com/devfaixapreta/package#readme"
+}
