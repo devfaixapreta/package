@@ -31,6 +31,17 @@ Podemos submeter o pacote para o packagist.org para ser utilizado com o composer
 
 [Resumo composer](https://github.com/devfaixapreta/resumo-composer)
 
+### Criando um pacote para npm
+1. Execute o comando
+```
+npm init
+```
+2. Publique o pacote no npm
+```
+npm publish
+```
+
+[Resumo npm](https://github.com/devfaixapreta/resumo-npm)
 
 
 # Instalando esse pacote em um projeto
