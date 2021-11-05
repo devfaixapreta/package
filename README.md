@@ -63,3 +63,9 @@ ou
 ```
 composer require devfaixapreta/package "versao ou branch"
 ```
+
+## Instalando com npm
+Você pode instalar o pacote diretamente em um projeto adicionando a dependecia por linha de comando
+```
+npm i devfaixapreta-package
+```
