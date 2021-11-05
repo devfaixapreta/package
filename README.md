@@ -17,7 +17,7 @@ Exemplo como pacote
         "devfaixapreta/package": "*"
     }
 ```
-* Instalar como dependência no projeto
+* Execute o comando install na pasta do projeto
 ```
 composer install
 ```
