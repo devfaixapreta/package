@@ -32,7 +32,7 @@ Podemos submeter o pacote para o packagist.org para ser utilizado com o composer
 [Resumo composer](https://github.com/devfaixapreta/resumo-composer)
 
 
-# Install package em um projeto
+# Instalando esse pacote em um projeto
 ## Instalando com um arquivo composer.json
 1. Crie um o arquivo `composer.json` na raiz do seu projeto.
 2. Edite o arquivo acrescentando o endereço do repositório e a versão ou a branch
