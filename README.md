@@ -27,7 +27,7 @@ Pode ser utilizando o comando `composer init` ou adicionando manualmente
 ```
 Podemos submeter o pacote para o packagist.org para ser utilizado com o composer require
 
-[Criar pacote Packagist.org](https://packagist.org/packages/submit)
+[Adicionar pacote Packagist.org](https://packagist.org/packages/submit)
 
 [Resumo composer](https://github.com/devfaixapreta/resumo-composer)
 
