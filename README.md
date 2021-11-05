@@ -2,7 +2,7 @@
 Exemplo como pacote
 
 # Install package em um projeto
-## Utilizando um arquivo composer.json
+## Instalando com um arquivo composer.json
 1. Crie um o arquivo `composer.json` na raiz do seu projeto.
 2. Edite o arquivo acrescentando o endereço do repositório e a versão ou a branch
 ```
@@ -22,7 +22,7 @@ Exemplo como pacote
 composer install
 ```
 
-## Utilizando linha de comando
+## Instalando com composer
 Você pode instalar o pacote diretamente em um projeto adicionando a dependecia por linha de comando
 ```
 composer require devfaixapreta/package
