@@ -1,2 +1,2 @@
 # package
-Um exemplo de um repositório para servir como pacote
+Um repositório para servir como pacote
