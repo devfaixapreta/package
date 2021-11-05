@@ -3,8 +3,8 @@ Exemplo como pacote
 
 # Install package em um projeto
 ## Utilizando um arquivo composer.json
-* Crie um o arquivo `composer.json` na raiz do seu projeto.
-* Edite o arquivo acrescentando o endereço do repositório e a versão ou a branch
+1. Crie um o arquivo `composer.json` na raiz do seu projeto.
+2. Edite o arquivo acrescentando o endereço do repositório e a versão ou a branch
 ```
   "repositories": [
         {
@@ -17,7 +17,7 @@ Exemplo como pacote
         "devfaixapreta/package": "*"
     }
 ```
-* Execute o comando install na pasta do projeto
+3. Execute o comando install na pasta do projeto
 ```
 composer install
 ```
