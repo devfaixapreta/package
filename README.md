@@ -21,3 +21,13 @@ Exemplo como pacote
 ```
 composer install
 ```
+
+## Utilizando linha de comando
+Você pode instalar o pacote diretamente em um projeto adicionando a dependecia por linha de comando
+```
+composer require devfaixapreta/package
+```
+ou
+```
+composer require devfaixapreta/package "versao ou branch"
+```
