@@ -1,0 +1,13 @@
+{
+    "name": "devfaixapreta/package",
+    "description": "Exemplo como pacote",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dev Faixa Preta",
+            "email": "devfaixapreta@gmail.com"
+        }
+    ],
+    "require": {}
+}
